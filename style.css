@@ -1,0 +1,21 @@
+div {
+    border-style: solid;
+    border-color:orange;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+
+    
+
+}
+body{
+    background-color:red
+}
+
+h1{
+    color:black
+}
+
+li{
+    color:black
+}
